@@ -7,4 +7,3 @@ Disponibilizamos informações em todos os níveis – operacional, tático e ge
 
 Atualmente buscamos ainda mais integrar a inteligência artificial aos nossos processos intermos e externos, implementando mais inovação relacionadas a dados.
 
-![Aero Engenharia](https://github-readme-stats.vercel.app/api?username=AeroEngenharia&theme=dark&show_icons=true)
